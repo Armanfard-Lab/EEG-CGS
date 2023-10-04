@@ -15,8 +15,7 @@ Please cite our paper if you intend to use our code or results.
   url = {https://arxiv.org/abs/2208.07448},
   author = {Ho, Thi Kieu Khanh and Armanfard, Narges},
   title = {Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs: Application to Seizure Analysis},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+  publisher = {Proceedings of the AAAI Conference on Artificial Intelligence 37},
+  year = {2023}
 }
 ```
